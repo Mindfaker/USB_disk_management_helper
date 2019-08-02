@@ -1,0 +1,2 @@
+# USB_disk_management_helper
+目标：方便管理计算机对移动磁盘的权限管理
